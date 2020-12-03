@@ -54,7 +54,7 @@ console.log(result)
 Result here will be: [4]
 We look if the any value in the array is bigger than three and that is in this case true
 
-### .find
+### Array.find
 Find will return the first value in the array that get true
 
 ```
